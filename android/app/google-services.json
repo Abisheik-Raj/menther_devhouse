@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873538454828",
+    "project_id": "ment-her-app",
+    "storage_bucket": "ment-her-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873538454828:android:6c009c8a4db7f578f49889",
+        "android_client_info": {
+          "package_name": "com.example.ment_her_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdNK2i9zGoy0O8LixSA6QwGrXKLNJONjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
